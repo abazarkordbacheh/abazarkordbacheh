@@ -18,9 +18,21 @@ Currently working as a **Data Engineer**.
 
 ## 🛠️ My Development Toolbelt
 
-`🐍 Python` `🏢 SQL Server` `🐘 PostgreSQL` `🟡 ClickHouse` `🍃 MongoDB`  
-`⚡ Apache Spark` `📨 Apache Kafka` `🐘 Apache Hadoop` `✈️ Apache Airflow`  
-`🐳 Docker` `🐧 Linux` `📊 Grafana` `📈 Kibana`
+<!-- فقط لوگوها، بدون اسم تکنولوژی -->
+
+<img src="https://www.python.org/static/img/python-logo.png" width="40" height="40" alt="Python"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Microsoft_SQL_Server_2025_icon.svg/48px-Microsoft_SQL_Server_2025_icon.svg.png" width="40" height="40" alt="SQL Server"/>
+<img src="https://proicons.com/icon/553991.svg" width="40" height="40" alt="PostgreSQL"/>
+<img src="https://brandfetch.com/clickhouse.com" width="40" height="40" alt="ClickHouse"/>
+<img src="https://proicons.com/icon/14820.svg" width="40" height="40" alt="MongoDB"/>
+<img src="https://proicons.com/icon/299027.svg" width="40" height="40" alt="Apache Spark"/>
+<img src="https://proicons.com/icon/264429.svg" width="40" height="40" alt="Apache Kafka"/>
+<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/apache-hadoop/default.svg" width="40" height="40" alt="Apache Hadoop"/>
+<img src="https://proicons.com/icon/551817.svg" width="40" height="40" alt="Apache Airflow"/>
+<img src="https://proicons.com/icon/373203.svg" width="40" height="40" alt="Docker"/>
+<img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.0.0/svgs/brands/linux.svg" width="40" height="40" alt="Linux"/>
+<img src="https://proicons.com/icon/14536.svg" width="40" height="40" alt="Grafana"/>
+<img src="https://proicons.com/icon/14536.svg" width="40" height="40" alt="Kibana"/>
 
 ---
 
