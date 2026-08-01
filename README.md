@@ -20,7 +20,7 @@ Currently working as a **Data Engineer**.
 
 <!-- فقط لوگوها، بدون اسم تکنولوژی -->
 
-<img src="https://www.python.org/static/img/python-logo.png" width="40" height="40" alt="Python"/>
+[<img src="https://www.python.org/static/img/python-logo.png" width="40" height="40" alt="Python"/>](https://www.citypng.com/photo/20680/hd-python-logo-symbol-transparent-png)
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Microsoft_SQL_Server_2025_icon.svg/48px-Microsoft_SQL_Server_2025_icon.svg.png" width="40" height="40" alt="SQL Server"/>
 <img src="https://proicons.com/icon/553991.svg" width="40" height="40" alt="PostgreSQL"/>
 <img src="https://brandfetch.com/clickhouse.com" width="40" height="40" alt="ClickHouse"/>
