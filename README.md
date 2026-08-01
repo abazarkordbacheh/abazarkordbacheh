@@ -1,41 +1,42 @@
-# 👋 Hi there, I'm Abazar!
+# 👋 Hey! I'm Abazar Kordbacheh
 
-I'm a **Data Engineer** & **Python Developer** based in **Tehran, Iran**.  
-I build scalable data pipelines, automation tools, and reliable database solutions.
+**Data Engineer** · **Python Developer** · **Automation Enthusiast**
 
-🔗 [LinkedIn](https://www.linkedin.com/in/abazar-kordbacheh) · 📧 [abazarkord@gmail.com](mailto:abazarkord@gmail.com) · 🐙 [GitHub](https://github.com/AbazarKord)
-
----
-
-## 🛠️ I'm currently working with...
-
-🐍 Python &nbsp;|&nbsp; 🗄️ SQL Server &nbsp;|&nbsp; 🐘 PostgreSQL &nbsp;|&nbsp; 🟡 ClickHouse &nbsp;|&nbsp; 🍃 MongoDB  
-⚡ Apache Spark &nbsp;|&nbsp; 📨 Apache Kafka &nbsp;|&nbsp; 🐘 Apache Hadoop &nbsp;|&nbsp; ✈️ Apache Airflow  
-🐳 Docker &nbsp;|&nbsp; 🐧 Linux &nbsp;|&nbsp; 📊 Grafana &nbsp;|&nbsp; 📈 Kibana
-
----
-
-## 🌱 I'm currently learning...
-
-🏗️ System Design &nbsp;|&nbsp; ☁️ Cloud Engineering &nbsp;|&nbsp; 🧠 Machine Learning
-
----
-
-## 📌 Highlights
-
-🔹 Built a **SQL Server Backup Restore Tool** with LSN-based chain detection  
-🔹 Passionate about **automation**, **data reliability**, and **clean code**  
-🔹 Always contributing to open-source and sharing knowledge
-
----
-
-## ✍️ Sometimes I write things here...
-
-[![DEV.to](https://img.shields.io/badge/-DEV.to-000?style=flat&logo=dev.to&logoColor=white)](https://dev.to/abazarkord)
-[![Medium](https://img.shields.io/badge/-Medium-000?style=flat&logo=medium&logoColor=white)](https://medium.com/@abazarkord)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abazar-kordbacheh)
-
----
-
+📍 Tehran, Iran  
+📧 abazarkord@gmail.com  
 📞 +98 922 177 4905  
-📍 Tehran, Iran
+🔗 [LinkedIn](https://www.linkedin.com/in/abazar-kordbacheh)
+
+---
+
+I build **scalable data pipelines**, **automation tools**, and **reliable database solutions**.  
+Passionate about clean code, efficient architectures, and making data work for people.
+
+Currently working as a **Data Engineer**.
+
+---
+
+## 🛠️ My Development Toolbelt
+
+`🐍 Python` `🏢 SQL Server` `🐘 PostgreSQL` `🟡 ClickHouse` `🍃 MongoDB`  
+`⚡ Apache Spark` `📨 Apache Kafka` `🐘 Apache Hadoop` `✈️ Apache Airflow`  
+`🐳 Docker` `🐧 Linux` `📊 Grafana` `📈 Kibana`
+
+---
+
+## 📌 My Personal Projects
+
+**SQL Server Backup Restore Tool** – LSN-based restore automation with STANDBY mode.  
+🔗 [View on GitHub →](https://github.com/AbazarKord/SQLRestoreManager)
+
+---
+
+## 💬 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abazar-kordbacheh)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abazarkord@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AbazarKord)
+
+---
+
+> 💡 *"Turning data into decisions, one pipeline at a time."*
