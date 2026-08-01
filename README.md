@@ -12,8 +12,7 @@ Currently working as a **Data Engineer**.
 
 ## 🛠️ My Development Toolbelt
 
-`![Uploading image.png…]()
- Python` `🏢 SQL Server` `🐘 PostgreSQL` `🟡 ClickHouse` `🍃 MongoDB`  
+`🐍Python` `🏢 SQL Server` `🐘 PostgreSQL` `🟡 ClickHouse` `🍃 MongoDB`  
 `⚡ Apache Spark` `📨 Apache Kafka` `🐘 Apache Hadoop` `✈️ Apache Airflow`  
 `🐳 Docker` `🐧 Linux` `📊 Grafana` `📈 Kibana`
 
