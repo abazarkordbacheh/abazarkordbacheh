@@ -1,12 +1,6 @@
 # 👋 Hey! I'm Abazar Kordbacheh
 
 **Data Engineer** · **Python Developer** · **Automation Enthusiast**
-
-📍 Tehran, Iran  
-📧 abazarkord@gmail.com  
-📞 +98 922 177 4905  
-🔗 [LinkedIn](https://www.linkedin.com/in/abazar-kordbacheh)
-
 ---
 
 I build **scalable data pipelines**, **automation tools**, and **reliable database solutions**.  
