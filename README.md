@@ -1,54 +1,41 @@
-# 👋 Hey! I'm Abazar Kordbacheh
+# 👋 Hi there, I'm Abazar!
 
-**Data Engineer** · **Python Developer** · **Automation Enthusiast**
+I'm a **Data Engineer** & **Python Developer** based in **Tehran, Iran**.  
+I build scalable data pipelines, automation tools, and reliable database solutions.
 
-📍 Tehran, Iran  
-📧 abazarkord@gmail.com  
-📞 +98 922 177 4905  
-🔗 [LinkedIn](https://www.linkedin.com/in/abazar-kordbacheh)
+🔗 [LinkedIn](https://www.linkedin.com/in/abazar-kordbacheh) · 📧 [abazarkord@gmail.com](mailto:abazarkord@gmail.com) · 🐙 [GitHub](https://github.com/AbazarKord)
 
 ---
 
-I build **scalable data pipelines**, **automation tools**, and **reliable database solutions**.  
-Passionate about clean code, efficient architectures, and making data work for people.
+## 🛠️ I'm currently working with...
 
-Currently working as a **Data Engineer**.
-
----
-
-## 🛠️ My Development Toolbelt
-
-<!-- فقط لوگوها، بدون اسم تکنولوژی -->
-
-[<img src="https://www.python.org/static/img/python-logo.png" width="40" height="40" alt="Python"/>](https://www.citypng.com/photo/20680/hd-python-logo-symbol-transparent-png)
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Microsoft_SQL_Server_2025_icon.svg/48px-Microsoft_SQL_Server_2025_icon.svg.png" width="40" height="40" alt="SQL Server"/>
-<img src="https://proicons.com/icon/553991.svg" width="40" height="40" alt="PostgreSQL"/>
-<img src="https://brandfetch.com/clickhouse.com" width="40" height="40" alt="ClickHouse"/>
-<img src="https://proicons.com/icon/14820.svg" width="40" height="40" alt="MongoDB"/>
-<img src="https://proicons.com/icon/299027.svg" width="40" height="40" alt="Apache Spark"/>
-<img src="https://proicons.com/icon/264429.svg" width="40" height="40" alt="Apache Kafka"/>
-<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/apache-hadoop/default.svg" width="40" height="40" alt="Apache Hadoop"/>
-<img src="https://proicons.com/icon/551817.svg" width="40" height="40" alt="Apache Airflow"/>
-<img src="https://proicons.com/icon/373203.svg" width="40" height="40" alt="Docker"/>
-<img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.0.0/svgs/brands/linux.svg" width="40" height="40" alt="Linux"/>
-<img src="https://proicons.com/icon/14536.svg" width="40" height="40" alt="Grafana"/>
-<img src="https://proicons.com/icon/14536.svg" width="40" height="40" alt="Kibana"/>
+🐍 Python &nbsp;|&nbsp; 🗄️ SQL Server &nbsp;|&nbsp; 🐘 PostgreSQL &nbsp;|&nbsp; 🟡 ClickHouse &nbsp;|&nbsp; 🍃 MongoDB  
+⚡ Apache Spark &nbsp;|&nbsp; 📨 Apache Kafka &nbsp;|&nbsp; 🐘 Apache Hadoop &nbsp;|&nbsp; ✈️ Apache Airflow  
+🐳 Docker &nbsp;|&nbsp; 🐧 Linux &nbsp;|&nbsp; 📊 Grafana &nbsp;|&nbsp; 📈 Kibana
 
 ---
 
-## 📌 My Personal Projects
+## 🌱 I'm currently learning...
 
-**SQL Server Backup Restore Tool** – LSN-based restore automation with STANDBY mode.  
-🔗 [View on GitHub →](https://github.com/AbazarKord/SQLRestoreManager)
+🏗️ System Design &nbsp;|&nbsp; ☁️ Cloud Engineering &nbsp;|&nbsp; 🧠 Machine Learning
 
 ---
 
-## 💬 Connect with Me
+## 📌 Highlights
 
+🔹 Built a **SQL Server Backup Restore Tool** with LSN-based chain detection  
+🔹 Passionate about **automation**, **data reliability**, and **clean code**  
+🔹 Always contributing to open-source and sharing knowledge
+
+---
+
+## ✍️ Sometimes I write things here...
+
+[![DEV.to](https://img.shields.io/badge/-DEV.to-000?style=flat&logo=dev.to&logoColor=white)](https://dev.to/abazarkord)
+[![Medium](https://img.shields.io/badge/-Medium-000?style=flat&logo=medium&logoColor=white)](https://medium.com/@abazarkord)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abazar-kordbacheh)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abazarkord@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AbazarKord)
 
 ---
 
-> 💡 *"Turning data into decisions, one pipeline at a time."*
+📞 +98 922 177 4905  
+📍 Tehran, Iran
