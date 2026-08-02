@@ -4,7 +4,7 @@
 ---
 
 I build **scalable data pipelines**, **automation tools**, and **reliable database solutions**.  
-Passionate about clean code, efficient architectures, and making data work for people.
+Passionate about clean code, efficient architectures, and solving real-world data challenges.
 
 Currently working as a **Data Engineer**.
 
